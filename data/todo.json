@@ -1,0 +1,42 @@
+{
+    "categorias" : [
+        {
+            "restaurantes" : [
+                {
+                    "id"       : 0,
+                    "nombre"   : "Burger King",
+                    "detalles" : "Tienda de hamburguesas de todo tipo, muy buenas y de gran calidad.",
+                    "imagenes" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/fc/dc/68/albercas-jacuzzi-areas.jpg"
+                },
+                {
+                    "id"       : 1,
+                    "nombre"   : "Sushi To Go",
+                    "detalles" : "Todo tipo de sushi muy rico y para llevar hasta la puerta de tu casa.",
+                    "imagenes" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/fc/dc/68/albercas-jacuzzi-areas.jpg"
+                },
+                {
+                    "id"       : 2,
+                    "nombre"   : "SushiKito",
+                    "detalles" : "Todo tipo de sushi muy rico y para llevar hasta la puerta de tu casa.",
+                    "imagenes" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/fc/dc/68/albercas-jacuzzi-areas.jpg"
+                }
+            ]
+        },
+        {
+            "hoteles" : [
+                {
+                    "id"       : 0,
+                    "nombre"   : "Las Palomas",
+                    "detalles" : "Hotel de 5 estrellas para todas las personas.",
+                    "imagenes" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/fc/dc/68/albercas-jacuzzi-areas.jpg"
+                },
+                {
+                    "id"       : 1,
+                    "nombre"   : "Penasco del Sol",
+                    "detalles" : "Hotel de 5 estrellas para todo el publico.",
+                    "imagenes" : "https://exp.cdn-hotels.com/hotels/1000000/900000/891200/891101/65d854be_z.jpg?impolicy=fcrop&w=773&h=530&q=high"
+                }
+            ]
+        }
+    ]
+}
